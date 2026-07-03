@@ -9,15 +9,10 @@ A modern, responsive, and user-friendly frontend website developed for **InAmigo
 - 🚀 Smooth scrolling and animations
 - 🧭 Sticky navigation bar
 - 💡 Interactive UI components
-- 📊 Animated impact statistics
-- 🖼️ Gallery section
-- 👥 Team section
-- ❓ FAQ accordion
 - 📬 Contact form
 - 🌙 Clean and accessible user experience
 
 ---
-
 ## 🏗️ Website Sections
 
 - Home
